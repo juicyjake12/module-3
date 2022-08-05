@@ -7,4 +7,4 @@ in this project i created a random password generator. The random password gener
 snippet of website-![image](https://user-images.githubusercontent.com/108505695/182985427-3c644bad-2092-4835-ae57-49b7a842dae3.png)
 
 
-deployed url-
+deployed url- https://juicyjake12.github.io/module-3/
